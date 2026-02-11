@@ -1,0 +1,18 @@
+
+2026-02-09 17:18:45
+Original: Hello world, my name is Kirsten!
+Shift: 9
+Encrypted: Qnuux fxaum, vh wjvn rb Trabcnw!
+--------------------------------------------------
+
+2026-02-09 17:27:18
+Original: Hello world, my name is Kirsten!
+Shift: 21
+Encrypted: Czggj rjmgy, ht ivhz dn Fdmnozi!
+--------------------------------------------------
+
+2026-02-09 17:29:35
+Original: This is a big secret, don't tell anyone!
+Shift: 9
+Encrypted: Cqrb rb j krp bnlanc, mxw'c cnuu jwhxwn!
+--------------------------------------------------
