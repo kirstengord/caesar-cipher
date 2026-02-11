@@ -80,8 +80,3 @@ This project was created to demonstrate understanding of:
 
 **Note:** The Caesar cipher is not secure for real-world use - it can be easily broken with brute force or frequency analysis. This is purely an educational implementation.
 
-## Future Enhancements
-- Add frequency analysis to auto-detect most likely shift
-- Support for additional character sets
-- GUI interface
-- Export encrypted messages in different formats
